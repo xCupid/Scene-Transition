@@ -6,8 +6,6 @@ public class Test : MonoBehaviour {
     private void Awake()
     {
         Debug.Log("HI:");
-        Debug.LogWarning("OI ERROR LEH");
-
     }
     // Use this for initialization
     void Start () {
